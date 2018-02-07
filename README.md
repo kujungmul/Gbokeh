@@ -22,4 +22,5 @@
   - [in terminal]
   - R
   - install.packages("igraph")
+  - install.packages("rJava")
   
