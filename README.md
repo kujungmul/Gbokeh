@@ -1,6 +1,6 @@
 # G-Bokeh
 
-* You should install R and rJAVA and igraph library first. Please follow these steps. 
+You should install R and rJAVA and igraph library first. Please follow these steps. 
 
 1. Install R on ubuntu. 
   - [in terminal]
